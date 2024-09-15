@@ -4,4 +4,4 @@
 *Instructor:* Brandon Karchewski
 *Author:* Avishai Colman
 
-An example repository setup for a simple Python package.
+
